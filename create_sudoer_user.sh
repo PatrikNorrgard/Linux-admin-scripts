@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Script that creates users with only ssh key  authentication, and allows them to run sudo without setting a password.
-# Requiers SUDO
+# Requiers SUDO, tested on Centos (Red had flavour) and Ubuntu (Debian flavour).
 # License MIT
 # Author Patrik Norrgård <pnorrgard@hotmail.com>
 
